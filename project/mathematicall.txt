@@ -1,0 +1,201 @@
+altitude:the height of an object or place above sea level  
+
+estimation:is  finding a number that is close enough to the right answer
+
+amplitude:the height from the center line to the peak (or to the trough) of a periodic function. 
+ 
+analog:something physical with continuous change
+
+array:Items arranged in rows and columns. 
+
+alternate exterior angle:when the two lines are parallel Alternate Exterior Angles are equal
+
+accuracy:how close a measured value is to the actual (true) value.
+
+variable:symbol for a number we don't know yet. It is usually a letter like x or y.
+
+constant:is a number on its own, or sometimes a letter such as a, b or c to stand for a fixed number.
+
+angle of depression:angle from the horizontal to line of sight from observer to some point of interest
+
+angle bisector:line that splits an angle into two equal angles.
+
+axis of symmetry:line through a shape so that each side is a mirror image. 
+
+symmetry:is when one shape becomes exactly like another if you flip, slide or turn it.
+
+rotational Symmetry:the image is rotate so that it appears 2 or more times.
+
+additive inverse:what you add to a number to get zero ,The negative of a number
+
+multiplicative inverse:another name for Reciprocal ,What you multiply by a number to get 1 
+
+reciprocal:is 1 divided by the number
+
+arithmetic:the basic calculations we make in everyday life: addition,subtraction,multiplication, division
+
+adjacent:angle lying next too each other 
+
+adjacent angle:two angles are Adjacent when they have a common side and a common vertex
+
+angle of elevation:angle from the horizontal to a line of sight from observer to some point of interest
+
+arithmetic sequence:sequence made by adding the same value each time.
+
+sequence:list of numbers or objects in a special order.
+
+number pattern:list of numbers that follow a certain sequence or pattern
+
+arm of angle:any of the two lines that form the angle
+
+algebra:uses letters or other symbols in place of values, and plays with them using special rules.
+
+axis:reference line drawn on a graph
+
+x axis:the line on a graph that runs horizontally (left-right) through zero.
+
+coordinates:are a set of values that show an exact position.
+
+polar coordinate:way to pinpoint where you are on a map or graph by how far away
+
+cartesian coordinate:way to pinpoint where you are on a map or graph by how far along
+
+angle:the amount of turn between two straight lines that have a common end point
+
+additive Identity:is 0, because adding 0 to a number leaves it unchanged
+
+Identity:an equation that is true no matter what values are chosen.
+
+arc length:the distance along the arc (part of the circumference of a circle, or of any curve).
+
+arc:part of the circumference of a circle.
+
+curve:smoothly-flowing line In normal language curve must bend but in math straight line is also curve
+
+line:a long thin mark made by a pen, pencil
+
+line segment:the part of a line that connects two points It has definite end points.
+
+triangle identities:are equations that are true for all triangles (they don't need to have a right angle)
+
+acceleration:the rate of change of speed with respect to time 
+
+acute angle:+ve angle that measure less than 90 degree
+
+exponential function:f(x)=ex
+
+rational number:number that can be expressed as ratio of 2 integers
+
+geometric sequence:sequence in which the ratio of each term to the one after it is constant 
+
+
+rhombus:quadrilateral whose sides are equal and interior angle are equal 
+
+series:sum of sequence 
+
+binary numbers:numbers are written in a positional system that uses only two digits: 0 and 1
+
+binomial:is the sum of two terms ( ax+b)
+ 
+chain rule:in calculus tells how to find the derivative of a composite function
+
+circumference:of a closed curve is the total distance around the curve , circumference of a circle is 2?r
+
+cramer’s rule:is a method for solving a set of simultaneous linear equations using determinants.
+
+diagonal:is a line segment connecting twononadjacent vertices of a polygon
+
+diameter:is the length of a linesegment joining two points on the circle and passingthrough the center
+
+differential equation:equation containing the derivatives of a function withrespect to one or more independent variables
+
+digits:are the 10 symbols (0.1.2.3.4.5.6.7.8.9)
+ 
+domain:of  function is the set of all possible values for the argument
+
+element:element  of a set is a member of the set.
+
+empty set:is a set that contains no elements.
+
+estimator:is a quantity, based on observationsof a sample, whose value is taken as an indicator of the value of an unknown population parameter.
+
+fundamental theorem:of arithmetic says that any natural number can be expressed as a unique product of prime numbers
+
+game theory:is the mathematical study of strategy games whose results can be represented by a matrix
+
+graph:of an equation is the set of points that make the equation true
+
+half plane:is the set of all points in a plane that lie on one side of a line
+
+horizontal line:test can be used to determine if a function is a one-to-one function
+
+Integration by parts:is a method for solving some difficult integrals that is based on a formula found by reversing the product rule for derivatives
+
+l hospital s rule:tells how to find the limit of ratio of 2 functions in cases where ratio approaches 0/0
+
+origin:is the point (0, 0) in Cartesian coordinates
+
+parallelogram:is a quadrilateral withopposite sides parallel
+
+period:of a periodic function is a measure of how often the function repeats the same values
+
+pie chart:type of chart that resembles a pie and graphically shows relative size of different subcategories
+
+placeholder:zero acts as a placeholder to indicate which power of 10 a digit is to be multiplied by
+
+positive number:is any real number greater than zero
+
+negative number:is any real number smaller than zero
+
+composite number:can be expressed as the product of two or more prime numbers
+
+probability space:is the set of outcomes for a probability experiment
+
+proof:is a sequence of statements that show a particular theorem to be true
+
+quadrantal angle:the angles that measure 0°, 90°, 180°, and 270
+
+radius:of a circle is the distance from the center of the circle to a point on the circle
+
+sector:of circle is region bounded by 2radii of circle and by arc of circle whose endpoints lie on
+
+transcendental number:number that isn’t algebraic 
+
+counter clockwise:see anticlockwise
+
+solution:value of variable that satisfies algebraic equation 
+
+extreme value:maximum or minimum value of function on a given interval 
+
+triangle:geometric figure with three sides 
+
+right angle:angle of 90 degrees 
+
+deficient number:+ve integer that is larger than sum of its proper divisor 
+
+liter:metric measure of volume/capacity almost equal to aquart 
+
+percent:ratio that compares number to 100 %
+
+center:point inside a circle from which all points on circle are aqually distant
+
+linear:having to do with lines 
+
+elimination:removing one of un known in algebraic equation 
+
+lattice point:a point with integer coordinates 
+
+inverse trigonometric function:inverse functions of sine , cosine , tangent
+
+probability:measure of how likely it is for an event to occur 
+
+coordinates:ordered pair of number that gives tha location of appoint on a coordinate
+
+infinity:greater than any fixed counting number 
+
+open interval:interval that doesn’t include it’s 2 endpoint 
+
+closed interval:interval that include it’s 2 endpoint
+
+inscribed angles:angle with its vertex on circle and with sides that are chord of circle 
+
